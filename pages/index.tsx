@@ -44,7 +44,7 @@ export default function Home() {
             </a>
 
             <a
-              href="https://instagram.com/yahya_abulhaj"
+              href="https://www.instagram.com/yaya2devops"
               className={styles.social}
               target="_blank"
               rel="noopener noreferer"
