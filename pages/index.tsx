@@ -11,7 +11,7 @@ export default function Home() {
 
 
   function copyDiscord() {
-    copy("InikkZ#0521");
+    copy("Yahya4#0521");
     setVisibleNot(true);
     setTimeout(() => setVisibleNot(false), 5000);
   }
