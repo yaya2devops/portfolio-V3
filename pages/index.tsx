@@ -11,7 +11,7 @@ export default function Home() {
 
 
   function copyDiscord() {
-    copy("Yahya4#0521");
+    copy("Yahya#0521");
     setVisibleNot(true);
     setTimeout(() => setVisibleNot(false), 5000);
   }
@@ -26,7 +26,7 @@ export default function Home() {
           <h1 className={styles.name}>Yahya </h1>
           <p>
             <a
-              href="https://github.com/Y4HYA4"
+              href="https://github.com/yaya2devops"
               className={styles.social}
               target="_blank"
               rel="noopener noreferer"
@@ -67,7 +67,7 @@ export default function Home() {
           className={styles.Notification}
           onClick={() => setVisibleNot(false)}
         >
-          Copied discord tag!
+          Copied, go discord and add ME!
         </div>
       </CSSTransition>
     </>
